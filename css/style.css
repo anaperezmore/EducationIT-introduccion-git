@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: 'roboto'sans-serif;
+}
+
+code{
+    color: rgb(255, 0, 128);
+    padding: .5rem 1rem;
+    border-radius: .25rem;
+    background-color: #333;
+}
